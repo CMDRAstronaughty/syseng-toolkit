@@ -1,0 +1,81 @@
+[
+  {
+    "FUN-0001": {
+      "name": "User Registration",
+      "description": "The system shall allow new users to register by providing necessary information such as username, password, and email address.",
+      "priority": "High",
+      "status": "Open",
+      "tags": ["authentication", "user management"],
+      "Closure Details": [
+        {
+          "Baseline Date": "2024-01-15",
+          "Replanned Date": "2024-02-01",
+          "Closure Code": "Closed",
+          "Closure Date": "2024-02-10",
+          "Closure Comments": "Requirement implemented and tested successfully."
+        }
+      ]
+    }
+  },
+  {
+    "FUN-0002": {
+      "name": "Password Recovery",
+      "description": "The system shall provide a password recovery option for users who have forgotten their passwords.",
+      "priority": "Medium",
+      "status": "In Progress",
+      "tags": ["authentication", "user management"],
+      "Closure Details": [
+        {
+          "Baseline Date": "2024-02-05",
+          "Replanned Date": "2024-02-20",
+          "Closure Code": "In Progress",
+          "Closure Date": "",
+          "Closure Comments": "Development is ongoing, expected to complete by end of month."
+        }
+      ]
+    }
+  },
+  {
+    "FUN-0003": {
+      "name": "User Profile Management",
+      "description": "The system shall allow users to view and edit their profile information, including name, email, and profile picture.",
+      "priority": "Low",
+      "status": "Open",
+      "tags": ["user management", "profile"],
+      "Closure Details": [
+        {
+          "Baseline Date": "2024-03-01",
+          "Replanned Date": "2024-03-15",
+          "Closure Code": "Open",
+          "Closure Date": "",
+          "Closure Comments": "Requirement is planned for future development."
+        }
+      ]
+    }
+  },
+  {
+    "FUN-0004": {
+      "name": "Two-Factor Authentication",
+      "description": "The system shall support two-factor authentication to enhance security during user login.",
+      "priority": "High",
+      "status": "Open",
+      "tags": ["authentication", "security"],
+      "Closure Details": [
+        {
+          "Baseline Date": "2024-04-01",
+          "Replanned Date": "2024-04-20",
+          "Closure Code": "Failed",
+          "Closure Date": "",
+          "Closure Comments": "Requirement is under review for implementation."
+        },
+        {
+          "Baseline Date": "2024-05-01",
+          "Replanned Date": "2024-05-15",
+          "Closure Code": "Open",
+          "Closure Date": "",
+          "Closure Comments": "Re-evaluating the approach for two-factor authentication."
+        }
+      ]
+    }
+  }
+]
