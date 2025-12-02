@@ -10,5 +10,3 @@ Use the navigation bar at the top to explore different sections of the applicati
 st.write("Feel free to reach out if you have any questions or need assistance!")
 st.write("Happy navigating!")
 st.divider()
-st.header("Contact Information")
-st.write("For support, please contact: S.Myint")
